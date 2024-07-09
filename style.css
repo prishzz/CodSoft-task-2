@@ -98,7 +98,7 @@ button :hover{
 color: var(--light-green-color);
 }
 .home{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('C:\Desktop\course lrn\Aria clone\assets\home_bg.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('home_bg.jpg');
     background-size: cover;
     min-height: 90vh;
     display: flex;
@@ -549,7 +549,7 @@ list-style-type: none;
     opacity: 1;
  }
  .projects .project-item.p-1{
-    background-image: url('C:\Desktop\course lrn\Aria clone\assets\project1.jpg');
+    background-image: url('project1.jpg');
  }
  .projects .project-item.p-2{
     background-image: url('project2.jpg');
@@ -570,7 +570,7 @@ list-style-type: none;
     background-image: url('project7.jpg');
  }
  .projects .project-item.p-8{
-    background-image: url('assets/project8.jpg');
+    background-image: url('project8.jpg');
  }
  .team{
     padding: 5rem 20vw;
