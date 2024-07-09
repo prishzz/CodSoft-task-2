@@ -98,7 +98,7 @@ button :hover{
 color: var(--light-green-color);
 }
 .home{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(' assets/home_bg.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(' home_bg.jpg');
     background-size: cover;
     min-height: 90vh;
     display: flex;
@@ -549,28 +549,28 @@ list-style-type: none;
     opacity: 1;
  }
  .projects .project-item.p-1{
-    background-image: url('assets/project1.jpg');
+    background-image: url('project1.jpg');
  }
  .projects .project-item.p-2{
-    background-image: url('assets/project2.jpg');
+    background-image: url('project2.jpg');
  }
  .projects .project-item.p-3{
-    background-image: url('assets/project3.jpg');
+    background-image: url('project3.jpg');
  }
  .projects .project-item.p-4{
-    background-image: url('assets/project4.jpg');
+    background-image: url('project4.jpg');
  }
  .projects .project-item.p-5{
-    background-image: url('assets/project5.jpg');
+    background-image: url('project5.jpg');
  }
  .projects .project-item.p-6{
-    background-image: url('assets/project6.jpg');
+    background-image: url('project6.jpg');
  }
  .projects .project-item.p-7{
-    background-image: url('assets/project7.jpg');
+    background-image: url('project7.jpg');
  }
  .projects .project-item.p-8{
-    background-image: url('assets/project8.jpg');
+    background-image: url('project8.jpg');
  }
  .team{
     padding: 5rem 20vw;
