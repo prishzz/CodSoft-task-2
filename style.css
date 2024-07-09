@@ -98,7 +98,7 @@ button :hover{
 color: var(--light-green-color);
 }
 .home{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('assets/ home_bg.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('assets\ home_bg.jpg');
     background-size: cover;
     min-height: 90vh;
     display: flex;
@@ -570,7 +570,7 @@ list-style-type: none;
     background-image: url('project7.jpg');
  }
  .projects .project-item.p-8{
-    background-image: url('assets/project8.jpg');
+    background-image: url('assets\project8.jpg');
  }
  .team{
     padding: 5rem 20vw;
